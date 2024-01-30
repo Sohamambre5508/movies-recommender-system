@@ -24,13 +24,17 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 # Screenshot
 
-![image](https://github.com/Sohamambre5508/movies-recommender-system/assets/121428299/2abc732c-b40c-41a2-be10-57ca3da2313b)
+
+https://github.com/Sohamambre5508/movies-recommender-system/assets/121428299/2382f7d1-8ea7-4253-b7ca-02a0bb76474c
+
+
+
 
 ![screen1](https://github.com/Sohamambre5508/movies-recommender-system/assets/121428299/efab7ebb-f466-401c-9c01-17cf58a74693)
 
 
 
-https://github.com/Sohamambre5508/movies-recommender-system/assets/121428299/2382f7d1-8ea7-4253-b7ca-02a0bb76474c
+
 
 
 
