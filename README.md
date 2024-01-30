@@ -26,6 +26,10 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ![image](https://github.com/Sohamambre5508/movies-recommender-system/assets/121428299/2abc732c-b40c-41a2-be10-57ca3da2313b)
 
+https://github.com/Sohamambre5508/movies-recommender-system/assets/121428299/2382f7d1-8ea7-4253-b7ca-02a0bb76474c
+
+
+
 
 
 ### Sources of the datasets 
